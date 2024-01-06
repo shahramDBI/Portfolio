@@ -3,6 +3,4 @@ Senior Web Developer specializing in front end development. Well-versed in numer
 Also Well-versed in numerous Design Applications including Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator, .... 
 I'm shareholder in two Company. The First is Mehregan (Oil and Gas) Company in KualaLumpur Malaysia. The Second is Rayan Hoshmand Mehregan technical and engineering (Software) Company in Tehran and Bandar Abbas.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahram Darbandi&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahram Darbandi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahram&show_icons=true&theme=radical)
